@@ -34,7 +34,9 @@
 18. Use subqueries to fetch data of all the ball_id which are repeating. (HINT: SELECT * FROM deliveries_v05 WHERE ball_id in (select BALL_ID from deliveries_v05 WHERE r_num=2);
 
 
-
+## Requirements
+* SQL database management system (e.g., MySQL, PostgreSQL).
+* Basic understanding of SQL querying and data manipulation techniques.
 
 
 
