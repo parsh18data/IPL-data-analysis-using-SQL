@@ -1,4 +1,5 @@
 # IPL data analysis using SQL
+![](file:///C:/Users/dhama/OneDrive/Desktop/IPL-2023-broadcast-and-streaming-details.jpg)
 
 ## project overview 
   the SQL projects aims to analyze ball by ball data to provide insights into aspect of 
