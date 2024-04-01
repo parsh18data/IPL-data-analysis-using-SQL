@@ -1,6 +1,5 @@
 # IPL data analysis using SQL
-![]([(https://crickettimes.com/wp-content/uploads/2023/03/IPL-2023-broadcast-and-streaming-details.jpg))
-
+![](https://crickettimes.com/wp-content/uploads/2023/03/IPL-2023-broadcast-and-streaming-details.jpg)
 ## project overview 
   the SQL projects aims to analyze ball by ball data to provide insights into aspect of 
   match performance , including runs , wickets , and player performsnce . project address
